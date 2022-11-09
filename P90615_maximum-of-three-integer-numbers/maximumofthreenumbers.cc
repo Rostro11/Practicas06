@@ -2,7 +2,7 @@
  * @autor David Rostro Buide
  * @fecha Nov 1st 2022
  * @Nombre del programa: P52847 máximo de tres números diferentes.
- * El programa consiste en leer tres numeros introducidos por teclado y mostrarla por pantalla el mayor de estos.
+ * Resumen: El programa consiste en leer tres numeros introducidos por teclado y mostrar por pantalla el mayor de estos.
  * alu0101544359@ull.edu.es
  */
  #include <iostream>

@@ -13,8 +13,8 @@ int main() {
   int numero;
   std::cin >> numero;
   double numero_harmonico = 0.0;
-  for ( double i = 1; i <= numero; ++i ) {
-    numero_harmonico = numero_harmonico + 1 / i;
+  for (int i = 1; i <= numero; ++i) {
+    numero_harmonico = numero_harmonico + 1.0 / i;
   }
   std::cout << std::fixed << std::setprecision(4) << numero_harmonico << std::endl;
   return 0;

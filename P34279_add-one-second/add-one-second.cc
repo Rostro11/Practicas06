@@ -2,7 +2,7 @@
  * @autor David Rostro Buide
  * @fecha Nov 7th 2022
  * @Nombre del programa: P34279 add one second
- * El programa consiste en leer una hora por teclado y añadirle un segundo y mostrarla por pantalla.
+ * Resumen: El programa consiste en leer una hora por teclado y añadirle un segundo y mostrarla por pantalla.
  * alu0101544359@ull.edu.es
  */
 
